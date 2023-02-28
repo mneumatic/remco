@@ -1,0 +1,62 @@
+[
+  {
+    "avatar": {
+      "url": "https://cdn.pixabay.com/photo/2015/04/27/22/53/man-742766_1280.jpg",
+      "alt": "Avatar"
+    },
+    "name": "Adam Heart",
+    "title": "Job Title",
+    "company": "Company",
+    "qoute": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur consequuntur dolore dolorum error est, iusto laborum magnam minima obcaecati officiis perspiciatis quasi repudiandae sit suscipit unde, vel veniam."
+  },
+  {
+    "avatar": {
+      "url": "https://cdn.pixabay.com/photo/2015/05/26/00/48/basketball-784097_1280.jpg",
+      "alt": "Avatar"
+    },
+    "name": "Mike Flagra",
+    "title": "Job Title",
+    "company": "Company",
+    "qoute": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur consequuntur dolore dolorum error est, iusto laborum magnam minima obcaecati officiis perspiciatis quasi repudiandae sit suscipit unde, vel veniam."
+  },
+  {
+    "avatar": {
+      "url": "https://cdn.pixabay.com/photo/2016/11/29/03/35/girl-1867092_1280.jpg",
+      "alt": "Avatar"
+    },
+    "name": "Jen Jeffer",
+    "title": "Job Title",
+    "company": "Company",
+    "qoute": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur consequuntur dolore dolorum error est, iusto laborum magnam minima obcaecati officiis perspiciatis quasi repudiandae sit suscipit unde, vel veniam."
+  },
+  {
+    "avatar": {
+      "url": "https://cdn.pixabay.com/photo/2018/01/04/08/04/people-3060107_1280.jpg",
+      "alt": "Avatar"
+    },
+    "name": "Pete Moss",
+    "title": "Job Title",
+    "company": "Company",
+    "qoute": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur consequuntur dolore dolorum error est, iusto laborum magnam minima obcaecati officiis perspiciatis quasi repudiandae sit suscipit unde, vel veniam."
+  },
+  {
+    "avatar": {
+      "url": "https://cdn.pixabay.com/photo/2016/11/29/05/46/young-woman-1867618_1280.jpg",
+      "alt": "Avatar"
+    },
+    "name": "Sarah Jones",
+    "title": "Job Title",
+    "company": "Company",
+    "qoute": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur consequuntur dolore dolorum error est, iusto laborum magnam minima obcaecati officiis perspiciatis quasi repudiandae sit suscipit unde, vel veniam."
+  },
+  {
+    "avatar": {
+      "url": "https://cdn.pixabay.com/photo/2016/01/10/22/07/woman-1132617_1280.jpg",
+      "alt": "Avatar"
+    },
+    "name": "Kelly Cook",
+    "title": "Job Title",
+    "company": "Company",
+    "qoute": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur consequuntur dolore dolorum error est, iusto laborum magnam minima obcaecati officiis perspiciatis quasi repudiandae sit suscipit unde, vel veniam."
+  }
+]
