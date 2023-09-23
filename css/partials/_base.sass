@@ -92,9 +92,16 @@ textarea
     #what-we-do-features
       ul
         li
+          span
+            opacity: 0
+            transition: opacity 1s ease-in-out
+
           &:hover
+            opacity: 1 !important
+
             span
               max-height: 100px
+              opacity: 1
 
           &::before
             content: "\2022"
@@ -110,12 +117,13 @@ textarea
       filter: blur(0) !important
       padding: 2.5rem 2.5rem 4.5rem 2.5rem !important
       margin: .5rem 0 !important
-      opacity: 0.75 !important
+      opacity: 1 !important
       z-index: 50 !important
       font-weight: bold
 
     .active-list-item span
       max-height: 100px
+      opacity: 1 !important
 
 .no-js
   #what-we-do-features
