@@ -1,0 +1,2 @@
+!function(){let e=document.querySelectorAll("#what-we-do-features ul li"),t=0,s=!1;function i(){s=!s,e.forEach(e=>{e.classList.remove("active-list-item")})}!function i(){s||setTimeout(()=>{t>=e.length&&(t=0),e.forEach(e=>{e.classList.remove("active-list-item")}),e[t].classList.add("active-list-item"),t++},1e3),setTimeout(i,3e3)}(),document.getElementById("what-we-do-features").addEventListener("mouseenter",i),document.getElementById("what-we-do-features").addEventListener("mouseleave",i)}();
+//# sourceMappingURL=index.0dd7bdec.js.map
