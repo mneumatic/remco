@@ -6,7 +6,8 @@
   "license": "",
   "author": "Michael K. Neumann",
   "scripts": {
-    "build": "parcel build index.html",
+    "build": "parcel build index.html --public-url ./",
+    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose",
     "dev": "parcel index.html --open",
     "tailwind": "npx tailwindcss -i ./css/main.sass -o ./css/main.sass",
     "start": "npm run build && npm run dev",
@@ -25,6 +26,7 @@
     "parcel": "^2.13.3",
     "postcss": "^8.4.21",
     "sass": "^1.58.3",
+    "svgo": "^3.3.2",
     "tailwindcss": "^3.2.6"
   }
 }
