@@ -7,7 +7,7 @@
   "author": "Michael K. Neumann",
   "scripts": {
     "build": "parcel build index.html --public-url ./",
-    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose",
+    "push-gh-pages": "gh-pages -d dist",
     "dev": "parcel index.html --open",
     "tailwind": "npx tailwindcss -i ./css/main.sass -o ./css/main.sass",
     "start": "npm run build && npm run dev",
@@ -23,6 +23,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-n": "^15.6.1",
     "eslint-plugin-promise": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "parcel": "^2.13.3",
     "postcss": "^8.4.21",
     "sass": "^1.58.3",
